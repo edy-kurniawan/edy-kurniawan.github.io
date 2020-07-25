@@ -65,6 +65,6 @@ Hi there, I'm **Edy Kurniawan**, a **Junior Web Developer** and a **Informatics 
 <summary> <b> My Github Statistic 🐱‍🏍 </b> <i>(click to expand!)</i> </summary>
   <br />
   
- [![edy-kurniawan github stats](https://github-readme-stats.vercel.app/api?username=edy-kurniawan)]
+ [![edy-kurniawan github stats](https://github-readme-stats.vercel.app/api?username=edy-kurniawan)(#)]
  
   </details>
